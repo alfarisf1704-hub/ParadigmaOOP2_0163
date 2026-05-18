@@ -18,4 +18,11 @@ public:
     {
         cout << "Pesan dari joko" << endl;
     }
+};
+
+int main()
+{
+    seseorang *obyek;
+    joko a;
+    lia b;
 }
