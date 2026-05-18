@@ -17,3 +17,7 @@ public:
         cout << "Hallo saya function dari derivedclass";
     }
 };
+
+int main()
+{
+}
