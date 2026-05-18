@@ -7,5 +7,9 @@ private:
     string x, y;
 
 public:
-    void
+    void setXY(string a, string b)
+    {
+        x = a;
+        y = b;
+    }
 }
