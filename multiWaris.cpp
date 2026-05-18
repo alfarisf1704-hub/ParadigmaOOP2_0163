@@ -11,3 +11,9 @@ public:
              << endl;
     }
 };
+
+class pekerja : virtual public orang
+{
+public:
+    pekerja(int pUmur) :
+}
